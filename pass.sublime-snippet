@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+pass # todo
+]]></content>
+    <tabTrigger>pass</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
